@@ -1,0 +1,11 @@
+/Users/ubaidrahman/Desktop/untitled folder---Test/DanskBank/DanskBankRectangularTask/bin/Debug/netcoreapp2.1/RectangularTask.deps.json
+/Users/ubaidrahman/Desktop/untitled folder---Test/DanskBank/DanskBankRectangularTask/bin/Debug/netcoreapp2.1/RectangularTask.runtimeconfig.json
+/Users/ubaidrahman/Desktop/untitled folder---Test/DanskBank/DanskBankRectangularTask/bin/Debug/netcoreapp2.1/RectangularTask.runtimeconfig.dev.json
+/Users/ubaidrahman/Desktop/untitled folder---Test/DanskBank/DanskBankRectangularTask/bin/Debug/netcoreapp2.1/RectangularTask.dll
+/Users/ubaidrahman/Desktop/untitled folder---Test/DanskBank/DanskBankRectangularTask/bin/Debug/netcoreapp2.1/RectangularTask.pdb
+/Users/ubaidrahman/Desktop/untitled folder---Test/DanskBank/DanskBankRectangularTask/obj/Debug/netcoreapp2.1/RectangularTask.AssemblyInfoInputs.cache
+/Users/ubaidrahman/Desktop/untitled folder---Test/DanskBank/DanskBankRectangularTask/obj/Debug/netcoreapp2.1/RectangularTask.AssemblyInfo.cs
+/Users/ubaidrahman/Desktop/untitled folder---Test/DanskBank/DanskBankRectangularTask/obj/Debug/netcoreapp2.1/RectangularTask.csproj.CoreCompileInputs.cache
+/Users/ubaidrahman/Desktop/untitled folder---Test/DanskBank/DanskBankRectangularTask/obj/Debug/netcoreapp2.1/RectangularTask.dll
+/Users/ubaidrahman/Desktop/untitled folder---Test/DanskBank/DanskBankRectangularTask/obj/Debug/netcoreapp2.1/RectangularTask.pdb
+/Users/ubaidrahman/Desktop/untitled folder---Test/DanskBank/DanskBankRectangularTask/obj/Debug/netcoreapp2.1/RectangularTask.genruntimeconfig.cache

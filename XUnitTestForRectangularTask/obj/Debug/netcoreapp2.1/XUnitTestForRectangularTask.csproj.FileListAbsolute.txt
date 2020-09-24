@@ -1,0 +1,53 @@
+D:/DanskBankAssignment24082020-2-Oclock/DanskBank/XUnitTestForRectangularTask/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:/DanskBankAssignment24082020-2-Oclock/DanskBank/XUnitTestForRectangularTask/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+D:/DanskBankAssignment24082020-2-Oclock/DanskBank/XUnitTestForRectangularTask/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+D:/DanskBankAssignment24082020-2-Oclock/DanskBank/XUnitTestForRectangularTask/bin/Debug/netcoreapp2.1/XUnitTestForRectangularTask.deps.json
+D:/DanskBankAssignment24082020-2-Oclock/DanskBank/XUnitTestForRectangularTask/bin/Debug/netcoreapp2.1/XUnitTestForRectangularTask.runtimeconfig.json
+D:/DanskBankAssignment24082020-2-Oclock/DanskBank/XUnitTestForRectangularTask/bin/Debug/netcoreapp2.1/XUnitTestForRectangularTask.runtimeconfig.dev.json
+D:/DanskBankAssignment24082020-2-Oclock/DanskBank/XUnitTestForRectangularTask/bin/Debug/netcoreapp2.1/XUnitTestForRectangularTask.dll
+D:/DanskBankAssignment24082020-2-Oclock/DanskBank/XUnitTestForRectangularTask/obj/Debug/netcoreapp2.1/XUnitTestForRectangularTask.csprojAssemblyReference.cache
+D:/DanskBankAssignment24082020-2-Oclock/DanskBank/XUnitTestForRectangularTask/obj/Debug/netcoreapp2.1/XUnitTestForRectangularTask.csproj.CoreCompileInputs.cache
+D:/DanskBankAssignment24082020-2-Oclock/DanskBank/XUnitTestForRectangularTask/obj/Debug/netcoreapp2.1/XUnitTestForRectangularTask.AssemblyInfoInputs.cache
+D:/DanskBankAssignment24082020-2-Oclock/DanskBank/XUnitTestForRectangularTask/obj/Debug/netcoreapp2.1/XUnitTestForRectangularTask.AssemblyInfo.cs
+D:/DanskBankAssignment24082020-2-Oclock/DanskBank/XUnitTestForRectangularTask/bin/Debug/netcoreapp2.1/XUnitTestForRectangularTask.pdb
+D:/DanskBankAssignment24082020-2-Oclock/DanskBank/XUnitTestForRectangularTask/obj/Debug/netcoreapp2.1/XUnitTestForRectangularTask.dll
+D:/DanskBankAssignment24082020-2-Oclock/DanskBank/XUnitTestForRectangularTask/obj/Debug/netcoreapp2.1/XUnitTestForRectangularTask.pdb
+D:/DanskBankAssignment24082020-2-Oclock/DanskBank/XUnitTestForRectangularTask/bin/Debug/netcoreapp2.1/DanskBankRectangularTask.dll
+D:/DanskBankAssignment24082020-2-Oclock/DanskBank/XUnitTestForRectangularTask/bin/Debug/netcoreapp2.1/DanskBankRectangularTask.pdb
+D:/DanskBankAssignment24082020-2-Oclock/DanskBank/XUnitTestForRectangularTask/obj/Debug/netcoreapp2.1/XUnitTestForRectangularTask.csproj.CopyComplete
+/Users/ubaidrahman/Desktop/DanskBankAssignment24082020-2-Oclock/DanskBank/XUnitTestForRectangularTask/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/ubaidrahman/Desktop/DanskBankAssignment24082020-2-Oclock/DanskBank/XUnitTestForRectangularTask/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/ubaidrahman/Desktop/DanskBankAssignment24082020-2-Oclock/DanskBank/XUnitTestForRectangularTask/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/ubaidrahman/Desktop/DanskBankAssignment24082020-2-Oclock/DanskBank/XUnitTestForRectangularTask/bin/Debug/netcoreapp2.1/XUnitTestForRectangularTask.deps.json
+/Users/ubaidrahman/Desktop/DanskBankAssignment24082020-2-Oclock/DanskBank/XUnitTestForRectangularTask/bin/Debug/netcoreapp2.1/XUnitTestForRectangularTask.runtimeconfig.json
+/Users/ubaidrahman/Desktop/DanskBankAssignment24082020-2-Oclock/DanskBank/XUnitTestForRectangularTask/bin/Debug/netcoreapp2.1/XUnitTestForRectangularTask.runtimeconfig.dev.json
+/Users/ubaidrahman/Desktop/DanskBankAssignment24082020-2-Oclock/DanskBank/XUnitTestForRectangularTask/bin/Debug/netcoreapp2.1/XUnitTestForRectangularTask.dll
+/Users/ubaidrahman/Desktop/DanskBankAssignment24082020-2-Oclock/DanskBank/XUnitTestForRectangularTask/bin/Debug/netcoreapp2.1/XUnitTestForRectangularTask.pdb
+/Users/ubaidrahman/Desktop/DanskBankAssignment24082020-2-Oclock/DanskBank/XUnitTestForRectangularTask/bin/Debug/netcoreapp2.1/DanskBankRectangularTask.dll
+/Users/ubaidrahman/Desktop/DanskBankAssignment24082020-2-Oclock/DanskBank/XUnitTestForRectangularTask/bin/Debug/netcoreapp2.1/DanskBankRectangularTask.pdb
+/Users/ubaidrahman/Desktop/DanskBankAssignment24082020-2-Oclock/DanskBank/XUnitTestForRectangularTask/obj/Debug/netcoreapp2.1/XUnitTestForRectangularTask.csprojAssemblyReference.cache
+/Users/ubaidrahman/Desktop/DanskBankAssignment24082020-2-Oclock/DanskBank/XUnitTestForRectangularTask/obj/Debug/netcoreapp2.1/XUnitTestForRectangularTask.AssemblyInfoInputs.cache
+/Users/ubaidrahman/Desktop/DanskBankAssignment24082020-2-Oclock/DanskBank/XUnitTestForRectangularTask/obj/Debug/netcoreapp2.1/XUnitTestForRectangularTask.AssemblyInfo.cs
+/Users/ubaidrahman/Desktop/DanskBankAssignment24082020-2-Oclock/DanskBank/XUnitTestForRectangularTask/obj/Debug/netcoreapp2.1/XUnitTestForRectangularTask.csproj.CoreCompileInputs.cache
+/Users/ubaidrahman/Desktop/DanskBankAssignment24082020-2-Oclock/DanskBank/XUnitTestForRectangularTask/obj/Debug/netcoreapp2.1/XUnitTestForRectangularTask.csproj.CopyComplete
+/Users/ubaidrahman/Desktop/DanskBankAssignment24082020-2-Oclock/DanskBank/XUnitTestForRectangularTask/obj/Debug/netcoreapp2.1/XUnitTestForRectangularTask.dll
+/Users/ubaidrahman/Desktop/DanskBankAssignment24082020-2-Oclock/DanskBank/XUnitTestForRectangularTask/obj/Debug/netcoreapp2.1/XUnitTestForRectangularTask.pdb
+/Users/ubaidrahman/Desktop/DanskBankAssignment24082020-2-Oclock/DanskBank/XUnitTestForRectangularTask/obj/Debug/netcoreapp2.1/XUnitTestForRectangularTask.genruntimeconfig.cache
+/Users/ubaidrahman/Desktop/untitled folder---Test/DanskBank/XUnitTestForRectangularTask/obj/Debug/netcoreapp2.1/XUnitTestForRectangularTask.AssemblyInfoInputs.cache
+/Users/ubaidrahman/Desktop/untitled folder---Test/DanskBank/XUnitTestForRectangularTask/obj/Debug/netcoreapp2.1/XUnitTestForRectangularTask.AssemblyInfo.cs
+/Users/ubaidrahman/Desktop/untitled folder---Test/DanskBank/XUnitTestForRectangularTask/obj/Debug/netcoreapp2.1/XUnitTestForRectangularTask.csproj.CoreCompileInputs.cache
+/Users/ubaidrahman/Desktop/untitled folder---Test/DanskBank/XUnitTestForRectangularTask/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/ubaidrahman/Desktop/untitled folder---Test/DanskBank/XUnitTestForRectangularTask/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/ubaidrahman/Desktop/untitled folder---Test/DanskBank/XUnitTestForRectangularTask/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/ubaidrahman/Desktop/untitled folder---Test/DanskBank/XUnitTestForRectangularTask/bin/Debug/netcoreapp2.1/XUnitTestForRectangularTask.deps.json
+/Users/ubaidrahman/Desktop/untitled folder---Test/DanskBank/XUnitTestForRectangularTask/bin/Debug/netcoreapp2.1/XUnitTestForRectangularTask.runtimeconfig.json
+/Users/ubaidrahman/Desktop/untitled folder---Test/DanskBank/XUnitTestForRectangularTask/bin/Debug/netcoreapp2.1/XUnitTestForRectangularTask.runtimeconfig.dev.json
+/Users/ubaidrahman/Desktop/untitled folder---Test/DanskBank/XUnitTestForRectangularTask/bin/Debug/netcoreapp2.1/XUnitTestForRectangularTask.dll
+/Users/ubaidrahman/Desktop/untitled folder---Test/DanskBank/XUnitTestForRectangularTask/bin/Debug/netcoreapp2.1/XUnitTestForRectangularTask.pdb
+/Users/ubaidrahman/Desktop/untitled folder---Test/DanskBank/XUnitTestForRectangularTask/bin/Debug/netcoreapp2.1/RectangularTask.dll
+/Users/ubaidrahman/Desktop/untitled folder---Test/DanskBank/XUnitTestForRectangularTask/bin/Debug/netcoreapp2.1/RectangularTask.pdb
+/Users/ubaidrahman/Desktop/untitled folder---Test/DanskBank/XUnitTestForRectangularTask/obj/Debug/netcoreapp2.1/XUnitTestForRectangularTask.csprojAssemblyReference.cache
+/Users/ubaidrahman/Desktop/untitled folder---Test/DanskBank/XUnitTestForRectangularTask/obj/Debug/netcoreapp2.1/XUnitTestForRectangularTask.csproj.CopyComplete
+/Users/ubaidrahman/Desktop/untitled folder---Test/DanskBank/XUnitTestForRectangularTask/obj/Debug/netcoreapp2.1/XUnitTestForRectangularTask.dll
+/Users/ubaidrahman/Desktop/untitled folder---Test/DanskBank/XUnitTestForRectangularTask/obj/Debug/netcoreapp2.1/XUnitTestForRectangularTask.pdb
+/Users/ubaidrahman/Desktop/untitled folder---Test/DanskBank/XUnitTestForRectangularTask/obj/Debug/netcoreapp2.1/XUnitTestForRectangularTask.genruntimeconfig.cache
